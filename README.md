@@ -38,27 +38,3 @@ In summary, the project overcame challenges by implementing innovative solutions
 
 ## Challenges Faced
 Navigating the project posed challenges, particularly in ensuring the scalability of the Java Swing Chat Application. I adeptly addressed this by implementing rigorous testing and optimization, striking a balance between real-time responsiveness and system efficiency. Through strategic problem-solving, the challenges became opportunities to refine the application, resulting in a seamlessly functioning platform for multi-user communication.
-
-## Output Window
-
-![01 Register](https://github.com/TarunPatil001/chatting_application/assets/87746946/e6e40eb8-9572-45d3-85c5-8aea4dd307c4)
-
-![02 Login](https://github.com/TarunPatil001/chatting_application/assets/87746946/34e8e8d2-25ed-4139-adb7-91199a5ddad0)
-
-![03 Splash Screen](https://github.com/TarunPatil001/chatting_application/assets/87746946/18c3bb6e-216c-470f-a189-5d8d3f4499e9)
-
-![04 Server](https://github.com/TarunPatil001/chatting_application/assets/87746946/329cabba-ccca-4c15-a104-74d554392960)
-
-![05 Multiple User Available to chat](https://github.com/TarunPatil001/chatting_application/assets/87746946/3f806bf8-01c1-45bb-adf9-5eddef138ccd)
-
-![06 Send And Recieve message](https://github.com/TarunPatil001/chatting_application/assets/87746946/a4047acc-f8b9-4c64-9877-df22651dfd8d)
-
-![07 Sending Emojis](https://github.com/TarunPatil001/chatting_application/assets/87746946/7da71bda-414e-478f-a36c-432fc113e4b3)
-
-![08 Sending Multimedia files](https://github.com/TarunPatil001/chatting_application/assets/87746946/232014f0-1730-4c5c-baf0-e57dcac37ff8)
-
-![09 DB User Login data](https://github.com/TarunPatil001/chatting_application/assets/87746946/6b0de64c-fa65-42d4-b6e5-9240b39aa672)
-
-![10 User File send data](https://github.com/TarunPatil001/chatting_application/assets/87746946/13d15954-bed5-4288-9c62-029850a475a6)
-
-![11 User available online with status](https://github.com/TarunPatil001/chatting_application/assets/87746946/148db087-7851-4c41-9357-a73aaddd873c)
